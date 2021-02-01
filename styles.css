@@ -1,7 +1,8 @@
 body {
-  background-color: lightgray;
+  background-color: darkblue;
 }
 header {
+  color: lightgray;
   display: flex;
   flex-direction: column;
   align-items: center;
